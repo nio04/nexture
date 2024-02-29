@@ -1,0 +1,15 @@
+{
+	"name": "nishat_islam",
+	"version": "1.0.0",
+	"description": "nexture project feat css:grid",
+	"source": "src/index.html",
+	"scripts": {
+		"dev": "parcel"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"parcel": "^2.12.0"
+	}
+}
